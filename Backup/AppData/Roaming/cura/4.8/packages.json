@@ -1,0 +1,52 @@
+{
+    "dismissed": [],
+    "installed": {
+        "CustomSupports": {
+            "filename": "C:\\Users\\zsizsik\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\CustomSupports.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "lokster",
+                    "display_name": "Krasimir Stefanov",
+                    "email": "lokiisyourmaster@gmail.com",
+                    "website": "http://lokspace.eu"
+                },
+                "description": "Cura plugin, which enables you to add custom supports!",
+                "display_name": "Custom Supports",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "CustomSupports",
+                "package_type": "plugin",
+                "package_version": "0.1.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.2.0",
+                "website": "http://lokspace.eu/cura-custom-supports-plugin/"
+            }
+        },
+        "ZOffsetPlugin": {
+            "filename": "C:\\Users\\zsizsik\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\ZOffsetPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds a Z Offset setting to change the distance between the nozzle and the buildplate.",
+                "display_name": "Z Offset Setting",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "ZOffsetPlugin",
+                "package_type": "plugin",
+                "package_version": "3.5.7",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-ZOffsetPlugin"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}
